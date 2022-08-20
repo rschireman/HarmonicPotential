@@ -1,5 +1,7 @@
 from manim import *
 
+config.background_color = WHITE
+
 class HarmonicPotential(Scene):
 
     def construct(self):
