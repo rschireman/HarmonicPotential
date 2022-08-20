@@ -1,4 +1,3 @@
-from venv import create
 from manim import *
 
 class HarmonicPotential(Scene):
